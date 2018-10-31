@@ -1,0 +1,80 @@
+body {
+  background-color: #373640;
+}
+
+h1, h2, h3, p, a {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
+  margin: 5px;
+  color: #373640;
+}
+
+img {
+  border-radius: 50%;
+}
+
+h1 {
+  font-size: 3em;
+}
+h2 {
+  font-size: 1.5em;
+}
+a {
+  color: #282D31;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+
+ul {
+  padding-left: 0;
+}
+ul>li {
+  display: inline-block;
+  margin: 0px 15px;
+  font-size: 1.2em;
+}
+
+table {
+  width: 100%;
+  padding: 0;
+}
+
+i{
+  padding: 30px;
+}
+
+.card {
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}
+
+.container {
+  width: 600px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+.profile_pic {
+  background: #155e63;
+  padding: 30px;
+}
+
+.social {
+  background: #76b39d;
+  margin: 0;
+}
+
+.card_table {
+  background: #155e63;
+  padding: 20px;
+}
+
+.text {
+  background: #76b39d;
+}
+
+#logo {
+  padding: 0px;
+}
